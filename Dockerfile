@@ -1,3 +1,3 @@
 FROM scratch
-ADD my-alpine-local /
+ADD alpine /
 CMD ["/HELLO"]
